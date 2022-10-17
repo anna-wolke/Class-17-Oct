@@ -15,3 +15,8 @@ library(ggplot2)
 
 Ready for action!
 
+Now look at some built in data
+```{r}
+View(cars)
+```
+
